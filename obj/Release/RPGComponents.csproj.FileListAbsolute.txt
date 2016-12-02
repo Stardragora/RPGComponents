@@ -1,0 +1,12 @@
+C:\Users\Systematech\Documents\Visual Studio 2015\Projects\RPGComponents\RPGComponents\bin\Release\RPGComponents.exe.config
+C:\Users\Systematech\Documents\Visual Studio 2015\Projects\RPGComponents\RPGComponents\obj\Release\RPGComponents.exe
+C:\Users\Systematech\Documents\Visual Studio 2015\Projects\RPGComponents\RPGComponents\obj\Release\RPGComponents.pdb
+C:\Users\Systematech\Documents\Visual Studio 2015\Projects\RPGComponents\RPGComponents\bin\Release\RPGComponents.exe.manifest
+C:\Users\Systematech\Documents\Visual Studio 2015\Projects\RPGComponents\RPGComponents\bin\Release\RPGComponents.application
+C:\Users\Systematech\Documents\Visual Studio 2015\Projects\RPGComponents\RPGComponents\bin\Release\RPGComponents.exe
+C:\Users\Systematech\Documents\Visual Studio 2015\Projects\RPGComponents\RPGComponents\bin\Release\RPGComponents.pdb
+C:\Users\Systematech\Documents\Visual Studio 2015\Projects\RPGComponents\RPGComponents\bin\Release\Newtonsoft.Json.dll
+C:\Users\Systematech\Documents\Visual Studio 2015\Projects\RPGComponents\RPGComponents\bin\Release\Newtonsoft.Json.xml
+C:\Users\Systematech\Documents\Visual Studio 2015\Projects\RPGComponents\RPGComponents\obj\Release\RPGComponents.exe.manifest
+C:\Users\Systematech\Documents\Visual Studio 2015\Projects\RPGComponents\RPGComponents\obj\Release\RPGComponents.application
+C:\Users\Systematech\Documents\Visual Studio 2015\Projects\RPGComponents\RPGComponents\obj\Release\RPGComponents.csprojResolveAssemblyReference.cache
